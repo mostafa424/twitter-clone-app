@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "bulma-rails", "~> 0.9.4"
+
+gem "simple_form", "~> 5.2"
+
+gem "gravatar_image_tag", "~> 1.2"
+
+gem "devise", "~> 4.9"
